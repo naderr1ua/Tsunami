@@ -1,7 +1,7 @@
 {
-    "name": "Tsunami",
-    "description": "An official Fog Network proxy site, made to access the blocked web",
-    "repository": "https://github.com/FogNetwork/Tsunami",
-    "logo":"https://raw.githubusercontent.com/FogNetwork/Tsunami/main/public/img/logo.png",
+    "name": "Naderpur",
+    "description": "nader pur",
+    "repository": "https://github.com/naderr1ua/Tsunami",
+    "logo":"https://1.bp.blogspot.com/-j7HoyymTFRw/YENytsb1GFI/AAAAAAAAAUQ/MvV9HdoJbjcIwjlHJ06r-UouQ-QhzbKewCK4BGAYYCw/s778/%25D9%2586%25D9%2586.jpg",
     "keywords": ["javascript", "proxy", "bypass", "proxy-site", "unblocker", "fog-network"]
 }
