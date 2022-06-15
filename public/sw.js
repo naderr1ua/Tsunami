@@ -1,4 +1,4 @@
-var cacheName = 'tsunami';
+var cacheName = 'nader';
 var filesToCache = [
   '/sw.js'
 ];
